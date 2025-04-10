@@ -24,7 +24,7 @@ build:
 
 requirements:
   host:
-    - cmake
+    - cmake <4
     - make
     - vcpkg
     - {{ compiler('c') }}
