@@ -15,9 +15,9 @@ docker_image:
 expat:
 - '2'
 libboost_devel:
-- '1.86'
+- '1.90'
 libpq:
-- '17'
+- '18'
 target_platform:
 - linux-64
 zip_keys:
